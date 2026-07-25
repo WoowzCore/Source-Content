@@ -1,3 +1,6 @@
 [submodule "Source-Content-The-Stanley-Parable"]
 	path = Source-Content-The-Stanley-Parable
 	url = https://github.com/WoowzCore/Source-Content-The-Stanley-Parable
+[submodule "Source-Content-Portal"]
+	path = Source-Content-Portal
+	url = https://github.com/WoowzCore/Source-Content-Portal
