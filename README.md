@@ -5,6 +5,7 @@
 
 |Игра|Версия|Вес|Файлов / Папок / Моделей|
 |:-:|:-:|-|:-:|
+|[Counter-Strike: Global Offensive](https://github.com/WoowzCore/Source-Content-Counter-Strike-Global-Offensive) |1|5.82 ГБ|36809 / 1258 / 4244|
 |[Left 4 Dead](https://github.com/WoowzCore/Source-Content-Left-4-Dead) |1|3.24 ГБ|28533 / 590 / 2373|
 |[The Stanley Parable](https://github.com/WoowzCore/Source-Content-The-Stanley-Parable/) |1|1.85 ГБ|7518 / 357 / 633|
 |[Vampire: The Masquerade - Bloodlines](https://github.com/WoowzCore/Source-Content-Vampire-The-Masquerade-Bloodlines) |1|1.45 ГБ|32966 / 1962 / 3559|
