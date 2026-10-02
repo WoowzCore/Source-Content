@@ -5,6 +5,7 @@
 
 |Игра|Вес|Файлов / Папок / Моделей|
 |:-:|:-:|:-:|
+|[Left 4 Dead 2](https://github.com/WoowzCore/Source-Content-Team-Fortress-2) |10.5 ГБ|93257 / 4149 / 7902|
 |[Counter-Strike: Global Offensive](https://github.com/WoowzCore/Source-Content-Counter-Strike-Global-Offensive) |5.82 ГБ|36809 / 1258 / 4244|
 |[Left 4 Dead 2](https://github.com/WoowzCore/Source-Content-Left-4-Dead-2) |3.32 ГБ|34811 / 495 / 5219|
 |[Left 4 Dead](https://github.com/WoowzCore/Source-Content-Left-4-Dead) |3.24 ГБ|28533 / 590 / 2373|
